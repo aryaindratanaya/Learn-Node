@@ -27,3 +27,8 @@
 	rm -r dist
 	npm run build
 	node dist/10-fs-sync.js
+
+11:
+	rm -r dist
+	npm run build
+	node dist/11-fs-async.js
