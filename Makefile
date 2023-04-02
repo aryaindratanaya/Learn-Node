@@ -22,3 +22,8 @@
 	rm -r dist
 	npm run build
 	node dist/9-path-module.js
+
+10:
+	rm -r dist
+	npm run build
+	node dist/10-fs-sync.js
