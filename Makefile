@@ -12,3 +12,8 @@
 	rm -r dist
 	npm run build
 	node dist/3-modules.js
+
+8:
+	rm -r dist
+	npm run build
+	node dist/8-os-module.js
