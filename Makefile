@@ -32,3 +32,8 @@
 	rm -r dist
 	npm run build
 	node dist/11-fs-async.js
+
+12:
+	rm -r dist
+	npm run build
+	node dist/12-http.js
